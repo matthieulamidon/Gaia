@@ -25,8 +25,8 @@ tasks.withType(JavaCompile) {
 }
 
 application {
-    mainModule = 'fr.eseo.demo'
-    mainClass = 'fr.eseo.demo.HelloApplication'
+    mainModule = 'fr.eseo.projet_gaia'
+    mainClass = 'fr.eseo.projet_gaia.HelloApplication'
 }
 
 javafx {
